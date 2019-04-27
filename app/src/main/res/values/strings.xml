@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">CountDownTimer</string>
+    <string name="select_number">Select number</string>
+    <string name="hitung_mundur_dalam">Hitung mundur dalam</string>
+    <string name="_25_detik">(25 detik)</string>
+    <string name="resend_code">Ulang kirim kode</string>
+</resources>
